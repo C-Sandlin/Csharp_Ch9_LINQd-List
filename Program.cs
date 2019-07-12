@@ -83,8 +83,8 @@ namespace LINQd_list
                 var num2 = Convert.ToInt32(Math.Sqrt(number));
                 return num1 * num2 != number;
             });
-
-
         }
+
     }
+
 }
